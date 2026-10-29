@@ -32,12 +32,29 @@
 
 ## Screenshots | صور المشروع
 
-Real screenshots of the application will be added here.
+### CyberShield Dashboard | الواجهة الرئيسية
+![CyberShield Dashboard](01_CyberShield_Dashboard.png)
 
-سيتم إضافة صور حقيقية من واجهات البرنامج في هذا القسم.
+### System Security Scan | فحص النظام
+![System Security Scan](02_System_Security_Scan.png)
 
----
+### Security Findings | النتائج الأمنية
+![Security Findings](03_Security_Findings.png)
 
+### Security Reports | التقارير الأمنية
+![Security Reports](04_Security_Reports.png)
+
+### NetShield Dashboard | واجهة الشبكة
+![NetShield Dashboard](05_NetShield_Dashboard.png)
+
+### Network Device List | قائمة الأجهزة
+![Network Device List](06_Network_Device_List.png)
+
+### Observed Device Grouping | عرض الأجهزة المكتشفة
+![Network Map](07_Network_Map.png)
+
+### Features Overview | نظرة عامة
+![CyberShield Features](08_CyberShield_Features_Overview.png)
 ## Project Information | معلومات المشروع
 
 | Item | Details |
